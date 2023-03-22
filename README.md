@@ -8,10 +8,10 @@
 
 Here are some ideas to get you started:
 
--⚙️ My specialty : `.Net`, `Asp.net Core`, 
--💻 My programming languages : `C#`, `TypeScript`,  'C++'
--⚔️ Technogies and tools : `.Net`, `xUnit`, `Git`,
--🌱 Learning all about Open Source
+- ⚙️ My specialty : `.Net`, `Asp.net Core`, 
+- 💻 My programming languages : `C#`, `TypeScript`,  'C++'
+- ⚔️ Technogies and tools : `.Net`, `xUnit`, `Git`,
+- 🌱 Learning all about Open Source
 
 
  ![Github stats](https://github-readme-stats.vercel.app/api?username=ShohruhUzDev&show_icons=true&theme=dark)
