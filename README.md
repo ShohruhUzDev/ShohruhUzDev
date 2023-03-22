@@ -6,9 +6,9 @@
 
 # 👋 Hi ! I am Shokhrukh 
 
-### I'm a Software Engineer.
+### I'm a .NET developer.
 
-![snake gif](https://github.com/ShohruhUzDev/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ShohruhUzDev/ShohruhUzDev/blob/output/github-contribution-grid-snake.svg)
 
 #### BIO
 
