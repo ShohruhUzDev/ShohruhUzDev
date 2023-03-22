@@ -1,10 +1,14 @@
 
+<h3 align="center">
+  Welcome to my profile!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
 # 👋 Hi ! I am Shokhrukh 
 
 ### I'm a Software Engineer.
 
-![snake gif](https://github.com/ShohruhUzDev/ShohruhUzDev/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ShohruhUzDev/blob/output/github-contribution-grid-snake.svg)
 
 #### BIO
 
