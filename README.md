@@ -4,12 +4,13 @@
 
 ### I'm a Software Engineer.
 
+![snake gif](https://github.com/ShohruhUzDev/ShohruhUzDev/blob/output/github-contribution-grid-snake.svg)
+
 #### BIO
 
-Here are some ideas to get you started:
 
 - ⚙️ My specialty : `.Net`, `Asp.net Core`, 
-- 💻 My programming languages : `C#`, `TypeScript`,  'C++'
+- 💻 My programming languages : `C#`, `TypeScript`, `C++`
 - ⚔️ Technogies and tools : `.Net`, `xUnit`, `Git`,
 - 🌱 Learning all about Open Source
 
