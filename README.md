@@ -8,8 +8,6 @@
 
 ### I'm a .NET developer.
 
-![snake gif](https://github.com/ShohruhUzDev/ShohruhUzDev/blob/output/github-contribution-grid-snake.svg)
-
 #### BIO
 
 
