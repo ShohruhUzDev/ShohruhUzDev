@@ -4,12 +4,10 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-![snake gif](https://github.com/MuhammadKasimov/MuhammadKasimov/blob/output/github-contribution-grid-snake.svg)
-
-
 # 👋 Hi ! I am Shokhrukh 
 
 ### I'm a .NET developer.
+![snake gif](https://github.com/MuhammadKasimov/MuhammadKasimov/blob/output/github-contribution-grid-snake.svg)
 
 #### BIO
 
