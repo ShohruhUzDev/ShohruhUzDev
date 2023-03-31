@@ -19,4 +19,4 @@
 
  ![Github stats](https://github-readme-stats.vercel.app/api?username=ShohruhUzDev&show_icons=true&theme=dark)
 
-📫 Connect with me: [Linkedin](https://www.linkedin.com/in/shohruh-uzdev-653410234/) | [Telegram](https://t.me/ShohruhUzDev)
+📫 Connect with me: [Linkedin](https://www.linkedin.com/in/shohruhuzdev/) | [Telegram](https://t.me/ShohruhUzDev)
