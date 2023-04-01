@@ -7,7 +7,6 @@
 # 👋 Hi ! I am Shokhrukh 
 
 ### I'm a .NET developer.
-![snake gif](https://github.com/MuhammadKasimov/MuhammadKasimov/blob/output/github-contribution-grid-snake.svg)
 
 #### BIO
 
